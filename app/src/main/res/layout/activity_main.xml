@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/weather"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.AppCompatSpinner
+        android:id="@+id/sp_city"
+        android:layout_width="170dp"
+        android:layout_height="95dp"
+        android:spinnerMode="dropdown"
+        android:entries="@array/cities"
+        android:popupBackground="@color/trans"
+        android:overlapAnchor="false"
+        android:dropDownVerticalOffset = "1dp"
+        android:backgroundTint="@color/white"
+         />
+
+</LinearLayout>
