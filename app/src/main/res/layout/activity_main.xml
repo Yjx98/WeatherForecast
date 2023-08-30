@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/weather"
+    android:background="@drawable/weather3"
     android:gravity="center_horizontal"
     android:orientation="vertical"
     tools:context=".MainActivity">
@@ -14,7 +14,7 @@
         android:layout_height="wrap_content">
         <androidx.appcompat.widget.AppCompatSpinner
             android:id="@+id/sp_city"
-            android:layout_width="139dp"
+            android:layout_width="145dp"
             android:layout_height="85dp"
             android:spinnerMode="dropdown"
             android:entries="@array/cities"
@@ -28,6 +28,7 @@
         android:id="@+id/iv_weather"
         android:layout_width="65dp"
         android:layout_height="65dp"
+
         android:src="@drawable/biz_plugin_weather_yin"
         />
 
@@ -35,51 +36,51 @@
         android:id="@+id/tv_tem"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
-        android:text="31"
-        android:layout_marginTop="10dp"
-        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:text="35"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/grey"
         />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/tv_weather"
-        android:textSize="15sp"
+        android:textSize="13sp"
         android:text="阴转多云(2023.08.18)"
-        android:layout_marginTop="15dp"
-        android:textColor="@color/white"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/grey"
         />
 
     <TextView
         android:id="@+id/tv_tem_low_high"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="15sp"
+        android:textSize="16sp"
         android:text="25 ℃ ~ 33 ℃"
-        android:layout_marginTop="15dp"
-        android:textColor="@color/white"
+        android:layout_marginTop="9dp"
+        android:textColor="@color/grey"
         />
 
     <TextView
         android:id="@+id/tv_win"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="15sp"
+        android:textSize="14sp"
         android:text="南风3~4级"
-        android:layout_marginTop="15dp"
-        android:textColor="@color/white"
+        android:layout_marginTop="13dp"
+        android:textColor="@color/grey"
         />
 
     <TextView
         android:id="@+id/tv_air"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="15sp"
+        android:textSize="14sp"
         android:text="空气：53 良\n空气好，适宜外出"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="9dp"
         android:gravity="center_horizontal"
-        android:textColor="@color/white"
+        android:textColor="@color/grey"
         />
 
     <androidx.recyclerview.widget.RecyclerView

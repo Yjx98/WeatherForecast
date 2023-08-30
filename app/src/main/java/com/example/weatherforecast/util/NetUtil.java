@@ -11,7 +11,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class NetUtil {
-    public static final String URL_WEATHER_WITH_FUTURE = "https://www.yiketianqi.com/free/week?unescape=1&appid=79152114&appsecret=423yCAvP";
+    public static final String URL_WEATHER_WITH_FUTURE = "https://tianqiapi.com/api?version=v1&appid=36646344&appsecret=c1lgQbP9";
 
     // 通过建立 HTTP 连接、发送 GET 请求，并从服务器读取响应数据
     // 将网络流数据转换为字符串数据

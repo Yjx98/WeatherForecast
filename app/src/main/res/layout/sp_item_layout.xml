@@ -6,7 +6,7 @@
     android:textColor="@color/white"
     android:textSize="16sp"
     android:gravity="center_horizontal"
-    android:text="北京"
+    android:text="成都"
     android:paddingTop="6dp"
     >
 

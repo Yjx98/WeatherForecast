@@ -1,11 +1,13 @@
 <resources>
-    <string name="app_name">WeatherForecast</string>
+    <string name="app_name">我的天气</string>
     <string-array name="cities">
+        <item>成都</item>
         <item>北京</item>
+        <item>济南</item>
         <item>天津</item>
         <item>哈尔滨</item>
         <item>沈阳</item>
-        <item>石家</item>
+        <item>石家庄</item>
         <item>兰州</item>
         <item>西安</item>
         <item>郑州</item>
@@ -26,7 +28,6 @@
         <item>济南</item>
         <item>合肥</item>
         <item>武汉</item>
-        <item>成都</item>
         <item>拉萨</item>
         <item>昆明</item>
         <item>南昌</item>
