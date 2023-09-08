@@ -68,3 +68,13 @@
 * 子线程中开启网络请求；
 * 网络请求返回的JSON数据解析；
 * 界面呈现；
+
+#### （四）实现结果
+
+##### 主界面
+
+https://cdn.nlark.com/yuque/0/2023/jpeg/26034580/1694163069756-315234a3-3b19-44c2-bde2-751f43488fce.jpeg?x-oss-process=image%2Fresize%2Cw_825%2Climit_0%2Finterlace%2C1
+
+##### 生活小提示界面
+
+https://cdn.nlark.com/yuque/0/2023/jpeg/26034580/1694163099787-db95f69a-7a56-4971-9a80-e8b80b35a0dc.jpeg?x-oss-process=image%2Fresize%2Cw_750%2Climit_0%2Finterlace%2C1
