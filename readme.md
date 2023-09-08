@@ -73,8 +73,8 @@
 
 ##### 主界面
 
-<img src="https://github.com/Yjx98/WeatherForecast/blob/master/%E6%98%BE%E7%A4%BA%E7%BB%93%E6%9E%9C1.jpg" alt="主界面" style="zoom: 25%;" />
+<img src="https://github.com/Yjx98/WeatherForecast/blob/master/%E4%B8%BB%E7%95%8C%E9%9D%A2.jpg" alt="主界面" style="zoom: 25%;" />
 
 ##### 生活小提示界面
 
-<img src="https://github.com/Yjx98/WeatherForecast/blob/master/%E6%98%BE%E7%A4%BA%E7%BB%93%E6%9E%9C2.jpg" alt="生活提示界面" style="zoom:25%;" />
+<img src="https://github.com/Yjx98/WeatherForecast/blob/master/%E7%94%9F%E6%B4%BB%E6%8F%90%E7%A4%BA%E7%95%8C%E9%9D%A2.jpg" alt="生活提示界面" style="zoom:25%;" />
