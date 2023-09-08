@@ -73,8 +73,8 @@
 
 ##### 主界面
 
-<img src="E:\AndroidProject\WeatherForecast\显示结果1.jpg" alt="显示结果1" style="zoom: 25%;" />
+<img src="https://github.com/Yjx98/WeatherForecast/blob/master/%E6%98%BE%E7%A4%BA%E7%BB%93%E6%9E%9C1.jpg" alt="主界面" style="zoom: 25%;" />
 
 ##### 生活小提示界面
 
-<img src="E:\AndroidProject\WeatherForecast\显示结果2.jpg" alt="显示结果2" style="zoom:25%;" />
+<img src="https://github.com/Yjx98/WeatherForecast/blob/master/%E6%98%BE%E7%A4%BA%E7%BB%93%E6%9E%9C2.jpg" alt="生活提示界面" style="zoom:25%;" />
